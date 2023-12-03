@@ -1,16 +1,5 @@
-# motivasyon_page
+# MOTİVASYON APP
+[Screen_recording_20231203_162121.webm](https://github.com/gulerkandeger/Flutter-Motivation-App/assets/77187949/34dfcf82-d5f4-4008-bedf-2e43c800cb1c)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
