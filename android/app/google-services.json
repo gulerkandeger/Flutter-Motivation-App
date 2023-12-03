@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973640980836",
+    "project_id": "betterself-da850",
+    "storage_bucket": "betterself-da850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973640980836:android:6bdda99664f2a7568f0271",
+        "android_client_info": {
+          "package_name": "com.example.better_self"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87yKCKcBFIx9LCy8HGJszrFoZy-KvOp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973640980836:android:c67522f6ced1bceb8f0271",
+        "android_client_info": {
+          "package_name": "com.example.motivasyon_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87yKCKcBFIx9LCy8HGJszrFoZy-KvOp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
